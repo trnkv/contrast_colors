@@ -12,5 +12,11 @@
   "fuchsia": "#FF00FF",
   "jade": "#00A86B",
   "pear": "#D1E231",
-  "red": "#FF0000"
+  "red": "#FF0000",
+  "rose": "#FF007F",
+  "sienna": "#882D17",
+  "silver": "#C0C0C0",
+  "skobeloff": "#007474",
+  "snow": "#FFFAFA",
+  "tomato": "#FF6347"
 }
